@@ -1,0 +1,9 @@
+name: TimoliaNet
+version: 1.0
+author: pizzafreak08
+website: http://www.timolia.de/
+main: de.timolia.net.TimoliaNet
+commands:
+    facebook:
+        usage: /<command> <message>
+        description: Poste eine Nachricht auf der Facebook-Seite
